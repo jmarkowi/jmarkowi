@@ -1,3 +1,5 @@
+![github_header](https://user-images.githubusercontent.com/61672156/141156807-58bd4964-7183-4cef-b656-08a2a62ff462.png)
+
 ## Hi there! 👋🏼
 
 **My name is Jesse Markowitz** and I'm a data scientist with a background in science education and a recent graduate of the Flatiron School. I taught for the past 10 years, the last 6 in the New York City public schools teaching middle school science. I loved designing projects for my students that let them take ownership of their learning through hands-on experiences. I also gained a lot of experience and skill with breaking down technical concepts for non-technical audiences. 
@@ -11,7 +13,7 @@ I became a data scientist because I’m passionate about creative problem solvin
 - 👯 Open to collaborate on data and machine learning projects that have a social impact
 - 💬 Ask me about neural networks with Keras/Tensorflow
 - 🗽 NYC-based
-- Catch me 🚲 cycling, ⛺️ camping, or  🧗🏻‍ rock climbing when the weather's nice and playing 🎻 🪕 music when I have to stay indoors!
+- 🥅 Goal: Visit all the National Parks
 
 ### Connect with me:
 
