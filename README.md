@@ -13,7 +13,7 @@ I became a data scientist because I’m passionate about creative problem solvin
 - 👯 Open to collaborate on data and machine learning projects that have a social impact
 - 💬 Ask me about neural networks with Keras/Tensorflow
 - 🗽 NYC-based
-- 🥅 Goal: Visit all the National Parks
+- 🥅 Goal: Visit all 62 National Parks!
 
 ### Connect with me:
 
