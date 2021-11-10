@@ -8,13 +8,10 @@ I became a data scientist because I’m passionate about creative problem solvin
 
 - 🔭 I’m currently working through [Public Policy Analytics](https://urbanspatial.github.io/PublicPolicyAnalytics/index.html) to learn more about the intersection of data science and public good. 
 - 🌱 I’m currently learning R, SQL, and AWS
-- 👯 I’m looking to collaborate on data and machine learning projects that have a social impact
-- 🤔 I’m looking for help with Tableau
+- 👯 Open to collaborate on data and machine learning projects that have a social impact
 - 💬 Ask me about neural networks with Keras/Tensorflow
-- 😄 Pronouns: he/him
 - 🗽 NYC-based
-- 🚲 ⛺️ 🧗🏻‍♂️ Catch me cycling, camping, or rock climbing when the weather's nice...
-- 🎻 🪕 ...and playing music when I have to stay indoors!
+- Catch me 🚲 cycling, ⛺️ camping, or  🧗🏻‍ rock climbing when the weather's nice and playing 🎻 🪕 music when I have to stay indoors!
 
 ### Connect with me:
 
