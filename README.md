@@ -8,10 +8,10 @@ I became a data scientist because I’m passionate about creative problem solvin
 
 ### What I'm up to:
 
-- 🔭 I’m currently working through [Public Policy Analytics](https://urbanspatial.github.io/PublicPolicyAnalytics/index.html) to learn more about the intersection of data science and public good. 
-- 🌱 I’m currently learning R, SQL, and AWS
-- 👯 Open to collaborate on data and machine learning projects that have a social impact
-- 💬 Ask me about neural networks with Keras/Tensorflow
+- 🔭 I’m currently working on [Advent of Code 2021](https://adventofcode.com/2021)! 
+- 🌱 I’m currently growing my SQL skills
+- 👯 Open to collaborate on data and machine learning projects that tell interesting stories and/or have a social impact
+- 💬 Ask me about neural networks for image classification with Keras/Tensorflow
 - 🗽 NYC-based
 - 🥅 Goal: Visit all 62 National Parks!
 
