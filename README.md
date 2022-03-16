@@ -8,8 +8,8 @@ I became a data scientist because I’m passionate about creative problem solvin
 
 ### What I'm up to:
 
-- 🔭 I’m currently working on [Advent of Code 2021](https://adventofcode.com/2021)! 
-- 🌱 I’m currently growing my SQL skills
+- 🔭 I’m currently working on [learning R](https://r4ds.had.co.nz/)
+- 🌱 I’m currently growing my [Tableau](https://www.udemy.com/course/tableau-2018-tableau-10-qualified-associate-certification/) skills
 - 👯 Open to collaborate on data and machine learning projects that tell interesting stories and/or have a social impact
 - 💬 Ask me about neural networks for image classification with Keras/Tensorflow
 - 🗽 NYC-based
