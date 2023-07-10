@@ -8,10 +8,10 @@ I became a data scientist because I’m passionate about creative problem solvin
 
 ### What I'm up to:
 
-- 🔭 I’m currently working on [Advent of Code 2022!](https://adventofcode.com/)
-- 🌱 I’m also working on an anomaly detection project at work and have been learning a ton of PostgreSQL and growing my Python stats/machine-learning knowledge!
+- 🔭 I’m currently working on fraud and identity theft detection for the Research, Applied Analytics and Statistics (RAAS) division of the IRS.
+- 🌱 I'm specifically working on an anomaly detection project and have learned a ton of PostgreSQL, plus grown my Python stats/machine-learning knowledge.
 - 👯 Open to collaborate on data and machine learning projects that tell interesting stories and/or have a social impact
-- 💬 Ask me about neural networks for image classification with Keras/Tensorflow
+- 💬 Ask me about creating complex data visualizations or using Python to generate dynamic SQL queries and Excel reports.
 - 🗽 NYC-based
 - 🥅 Goal: Visit all 62 National Parks!
 
